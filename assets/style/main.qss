@@ -1,0 +1,9 @@
+QMainWindow {
+    background-color: #F5F5F5;
+}
+
+QTextEdit {
+    border: 1px solid #DCDCDC;
+    border-radius: 4px;
+    font-size: 14px;
+}
